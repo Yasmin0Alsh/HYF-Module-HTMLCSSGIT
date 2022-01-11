@@ -1,0 +1,4 @@
+create a hidden file or folder= mkdir hidden ; atrib+h
+display it in the CLI=atrib-h "file name"
+create multiple nested directories= mkdir -p c/users/yasmin/these/folders/are/for/fun
+append a message to a file , without a newline character = echo "first message" >> text.txt ; echo "second message" >> text.txt
