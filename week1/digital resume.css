@@ -1,0 +1,51 @@
+div {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj_-mrY23SW0x88E6ZboODtjzwXJQvdtx4Xw&usqp=CAU);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    padding: 20px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;   
+}
+
+header { 
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+    font-family: cursive;
+}
+
+span header {
+    background-color: rgb(176, 212, 112);
+
+}
+
+.h {
+    background-color: rgb(175, 214, 106);
+    width: 200px;
+    height: 30px;
+    font-family: cursive;
+    font-size: 20px;
+    font-weight: 100px;
+}
+
+p {
+    font-size: 20px;
+    font-family: cursive;
+    line-height: 15px;
+
+}
+#summary {
+    width: 50%;
+    line-height: 30px;
+
+}
+
+li {
+    font-size: 20px;
+    font-family: cursive; 
+}
